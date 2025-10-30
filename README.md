@@ -30,5 +30,5 @@ End-to-End система прогнозирования оттока клиен
 
 1. **Клонируйте репозиторий**
 ```bash
-git clone https://github.com/yourusername/customer-churn-prediction-system.git
+git clone https://github.com/DARIMAYA/customer-churn-prediction-system.git
 cd customer-churn-prediction-system
